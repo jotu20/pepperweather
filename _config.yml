@@ -40,15 +40,12 @@ features                                  :
 
   - title                                 : User Friendly
     description                           : Easily scroll and view all the forecasts without any interuptions.
-    fontawesome_icon_name                 : 
     
   - title                                 : Hourly Conditions
     description                           : View conditions like temperature, humidity, and more down to the hour and up to 24 hours in advance. 
-    fontawesome_icon_name                 : 
 
   - title                                 : Daily Conditions
     description                           : Plan ahead by viewing daily forecasts up to 10 days in advance. View the forecast summary for each day which includes precipitation amounts and more.  
-    fontawesome_icon_name                 : 
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
