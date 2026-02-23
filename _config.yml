@@ -42,10 +42,10 @@ features                                  :
     description                           : Easily scroll and view without any interuptions.
     
   - title                                 : Hourly Conditions
-    description                           : View conditions like temperature, humidity, and more down to the hour and up to 24 hours in advance. 
+    description                           : View a handful of conditions like temperature or humidity down to the hour and up to 24 hours in advance. 
 
   - title                                 : Daily Conditions
-    description                           : Plan ahead by viewing daily forecasts up to 10 days in advance. View the forecast summary for each day which includes precipitation amounts and more.  
+    description                           : Plan ahead by viewing daily forecasts up to 10 days in advance which include daily forecast summaries that include precipitation amounts like the total rainfall or snowfall.
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
