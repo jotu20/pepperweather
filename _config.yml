@@ -39,13 +39,13 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : User Friendly
-    description                           : Easily scroll and view without any interuptions.
+    description                           : Find the forecast quickly without any interuptions.
     
   - title                                 : Hourly Conditions
-    description                           : View a handful of conditions like temperature or humidity down to the hour and up to 24 hours in advance. 
+    description                           : Select between a handful of different conditions such as temperature or humidity and easily view those hourly conditions up to the next 24 hours in advance.  
 
   - title                                 : Daily Conditions
-    description                           : Plan ahead by viewing daily forecasts up to 10 days in advance which include daily forecast summaries that include precipitation amounts like the total rainfall or snowfall.
+    description                           : Plan ahead with daily forecasts which you can view up to 10 days in advance. Get daily forecast summaries that include precipitation amounts like the total rainfall or snowfall on a specific day.
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -56,30 +56,30 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#121212"
 topbar_transparency                       : 1.0
-topbar_title_color                        : "#FEFFFF"
+topbar_title_color                        : "#F4F4F4"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#222224"
+cover_overlay_color                       : "#1C1C1E"
 cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#EFEFEF"
+body_background_color                     : "#FEFFFF"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#FEFFFF"
-app_price_color                           : "#FEFFFF"
-app_description_color                     : "#FEFFFF"
+app_title_color                           : "#F4F4F4"
+app_price_color                           : "#F4F4F4"
+app_description_color                     : "#F4F4F4"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#121212"
-feature_icons_background_color            : "#EFEFEF"
+feature_icons_background_color            : "#FEFFFF"
 
 social_icons_foreground_color             : "#121212"
-social_icons_background_color             : "#EFEFEF"
+social_icons_background_color             : "#FEFFFF"
 
 footer_text_color                         : "#000000"
 
