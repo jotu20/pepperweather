@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Weather simplified
+app_description                           : Weather made easy
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 :                 
 your_link                                 :           
 your_city                                 :                            
-email_address                             : 
+email_address                             : support@pepperweatherapp.io
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
@@ -38,11 +38,11 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : User Friendly
-    description                           : Find the forecast quickly without any interuptions.
+  - title                                 : Minute Conditions
+    description                           : Be informed when precipitation is starting or ending down to the minute by viewing precipitation chances over the next hour when there is expected precipitation to happen at your location.
     
   - title                                 : Hourly Conditions
-    description                           : Select between a handful of different conditions such as temperature or humidity and easily view those hourly conditions up to the next 24 hours in advance.  
+    description                           : Select between a handful of different conditions such as temperature or humidity and easily view those hourly conditions up to the next 24 hours in advance.
 
   - title                                 : Daily Conditions
     description                           : Plan ahead with daily forecasts which you can view up to 10 days in advance. Get daily forecast summaries that include precipitation amounts like the total rainfall or snowfall on a specific day.
